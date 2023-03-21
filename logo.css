@@ -35,8 +35,8 @@ body
 @keyframes teste
 {
   0%{transform:translateX(-100vh);opacity: 0;}
-  50%{transform:translateX(-32vh);opacity:1}
-  100%{transform: translateX(-29vh);opacity: 1;}
+  50%{transform:translateX(-27vh);opacity:1}
+  100%{transform: translateX(-30vh);opacity: 1;}
 }
 
 .nome_logo
@@ -48,8 +48,8 @@ body
 @keyframes acender
 {
     0% {transform:translateX(100vh);opacity: 0;}
-    50%{transform:translateX(29vh);opacity:1}
-    100% {transform: translateX(27vh);opacity: 1;}
+    50%{transform:translateX(27vh);opacity:1}
+    100% {transform: translateX(29vh);opacity: 1;}
    
 }
 
@@ -58,11 +58,11 @@ body
     height: 40px;
     width: 70px;
     background-color: #E6852B;
-    color: #3e3c3c ;
+    color: rgb(14, 14, 14) ;
     border: none;
-    border-radius: 10px;
-    animation: aparecer 2s forwards;
-    
+    border-radius: 15px;
+    animation: aparecer 3s forwards;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
 
