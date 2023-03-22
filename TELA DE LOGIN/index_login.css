@@ -73,7 +73,11 @@ body {
     color: #E6852B;
     border: none;
 }
-
+.esqueceuAsenha:hover
+{
+    background-color: #252323;
+    color: #E6852B;
+}
 .entrar {
     background-color: #E6852B;
     color: black;
