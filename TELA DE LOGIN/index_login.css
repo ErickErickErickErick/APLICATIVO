@@ -24,7 +24,8 @@ body {
     margin-bottom: 20px;
 }
 
-.barra1 {
+.barra 
+{
     margin-top: 20px;
     background-color: white;
     display: flex;
@@ -35,16 +36,6 @@ body {
     width: 350px;
 }
 
-.barra2 {
-    margin-top: 20px;
-    background-color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 25px;
-    height: 30px;
-    width: 350px;
-}
 
 #txtEmail {
     float: left;
