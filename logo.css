@@ -53,23 +53,4 @@ body
    
 }
 
-.entrar
-{
-    height: 40px;
-    width: 70px;
-    background-color: #E6852B;
-    color: rgb(14, 14, 14) ;
-    border: none;
-    border-radius: 15px;
-    animation: aparecer 3s forwards;
-    font-family: Arial, Helvetica, sans-serif;
-
-}
-
-@keyframes aparecer
-{
-    0%{opacity: 0;}
-    50%{opacity: 0;}
-    100%{opacity: 1;}
-}
 
