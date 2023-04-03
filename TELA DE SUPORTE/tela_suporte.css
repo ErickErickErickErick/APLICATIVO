@@ -1,0 +1,67 @@
+body
+{
+    background-color: #393636;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+}
+.duvida
+{
+    font-size: 30px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #E6852B;
+}
+.quadrado
+{
+    background-color: #272525;
+    width: 600px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+}
+button
+{
+    background-color: #E6852B;
+    border-radius: 10px;
+    width: 85px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+
+}
+button:hover
+{
+    background-color: #393636;
+    color: #E6852B;
+}
+.caixa_resposta
+{
+    background-color: #272525;
+    align-items: center;
+    height: 400px;
+    width: 600px;
+    overflow-y: scroll;
+    color: aliceblue;
+    
+    
+}
+.resposta
+{   
+    word-break: break-all;
+}
+input:focus
+{
+    outline: 0;
+}
+.mensagem
+{
+    width: 60%;
+    height: 20px;
+    border-radius: 10px;
+}
