@@ -44,6 +44,7 @@ body {
     height: 20px;
     width: 70%;
     border: none;
+    outline: 0;
 }
 
 #txtSenha {
@@ -54,6 +55,7 @@ body {
     height: 20px;
     width: 70%;
     border: none;
+    outline: 0;
 }
 
 .esqueceuAsenha {
